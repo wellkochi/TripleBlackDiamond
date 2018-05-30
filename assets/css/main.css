@@ -1,4 +1,5 @@
 body {
     background-image: url("../img/tripleDiamond.png");
     background-position: top;
+    background-repeat: repeat;
 }
